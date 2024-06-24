@@ -1,7 +1,5 @@
+![image](https://github.com/Pekotaker/Pekotaker/assets/94163156/d67eacde-2f93-443b-8363-f289d76f9532)
 <h1 align="center">Hi 👋, I'm Nguyên Vũ (Pekotaker)</h1>
-
-
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
