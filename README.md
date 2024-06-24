@@ -1,9 +1,11 @@
 ![image](https://github.com/Pekotaker/Pekotaker/assets/94163156/d67eacde-2f93-443b-8363-f289d76f9532)
-<h1 align="center">Hi 👋, I'm Nguyên Vũ (Pekotaker)</h1>
+<h1 align="center">こんにちは 👋</h1>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 **Full-stack Software Engineer**
+I'm Nguyên Vũ (Pekotaker), student at VNUHCM-University of Science (HCMUS), pursuing Software Engineering major. I can also do Cisco Networking and sometimes I do some side weeb projects.
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -18,27 +20,31 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pekotaker&show_icons=true&theme=dark&locale=en&layout=compact" alt="Pekotaker" /></p>
-
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pekotaker&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Pekotaker&theme=dark" alt="Pekotaker" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pekotaker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pekotaker" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17608681/nguy%c3%aan-v%c5%a9-tr%e1%bb%8bnh-l%c3%aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/nguynvtrnhl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17608681/nguy%c3%aan-v%c5%a9-tr%e1%bb%8bnh-l%c3%aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17608681" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nguynvtrnhl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Pekotaker" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pekora.gg.bet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pekora.gg.bet" height="30" width="40" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pekotaker&label=Profile%20views&color=0e75b6&style=flat" alt="Pekotaker" /> </p>
 
-------
 
+<hr width="36%" >
+<h3>Language Skills</h3>
+<p>🇬🇧 IELTS 7.0</p></p>
+<p>🇯🇵 N3</p></p>
+<p>🇻🇳 Native</p>
+
+
+------
 
 [Pekotaker](https://github.com/Pekotaker)
